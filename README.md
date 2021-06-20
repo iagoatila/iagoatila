@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iagoatila
+- 👀 I’m interested in learning and understanding the beaty of programming websites and use that to perform on my own Deploys
+- 🌱 I’m currently learning baiscs of how to progrma a frontend and backend
+- 💞️ I’m looking to collaborate to develop a new set of tools that will help the market that I am inserted in.
+- 📫 How to reach me iago_atila@live.com
